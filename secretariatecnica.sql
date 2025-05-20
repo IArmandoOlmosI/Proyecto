@@ -1,7 +1,5 @@
-DROP DATABASE IF EXISTS secretariaTecnica;
-CREATE DATABASE secretariaTecnica;
-USE secretariaTecnica;
 
+USE railway;
 
 -- Catálogo de Categorías Docentes
 CREATE TABLE categorias (
